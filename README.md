@@ -27,4 +27,5 @@ https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/
 <code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code>
 <code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code>
 <code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code>
+<code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code>
 </p>
